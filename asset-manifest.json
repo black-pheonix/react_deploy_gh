@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/black-pheonix/react_deploy_gh/static/css/main.4ab54d94.css",
+    "main.js": "/black-pheonix/react_deploy_gh/static/js/main.fea85865.js",
+    "index.html": "/black-pheonix/react_deploy_gh/index.html",
+    "main.4ab54d94.css.map": "/black-pheonix/react_deploy_gh/static/css/main.4ab54d94.css.map",
+    "main.fea85865.js.map": "/black-pheonix/react_deploy_gh/static/js/main.fea85865.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ab54d94.css",
+    "static/js/main.fea85865.js"
+  ]
+}
